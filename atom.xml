@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Codeventure Time]]></title>
   <link href="http://wontaeyang.github.io/atom.xml" rel="self"/>
   <link href="http://wontaeyang.github.io/"/>
-  <updated>2014-04-30T17:13:19-04:00</updated>
+  <updated>2014-04-30T17:24:46-04:00</updated>
   <id>http://wontaeyang.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Wontae Yang]]></name>
     
   </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
